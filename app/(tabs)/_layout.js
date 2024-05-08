@@ -2,7 +2,6 @@ import React from "react";
 import { Tabs } from "expo-router";
 import { FontAwesome5 } from "@expo/vector-icons";
 import { AntDesign } from "@expo/vector-icons";
-import { AntDesign } from "@expo/vector-icons";
 const TabsLayout = () => {
   return (
     <Tabs>
